@@ -1,0 +1,79 @@
+html{
+	scroll-behavior:smooth;}
+body{
+	background-color: #c4aabc;
+}
+img{
+	border-radius:10px;
+}
+.white_bg{
+	background:#FFF;}
+
+.more_padding{
+  padding:50px 0;
+}
+
+i{color: white;
+font-size: 400px;
+margin: 0 auto}
+
+.jumbotron {
+	background-color: transparent;
+	text-align: center;
+}
+.btn {
+	color: #c4aabc;
+	border:solid black;
+}
+
+.interview{
+	border: solid black;
+	margin-top: 125px;
+	height: 650px;
+	width: 450px;
+
+}
+
+.text-align{
+	text-align: center;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    line-height: 50px;
+	
+}
+
+.left{
+	padding-left: 50px
+}
+
+.right{
+	padding-right: 50px
+}
+
+h1, h2{
+    font-family: 'Quicksand', sans-serif ; 
+	
+}
+
+h2{ padding-bottom: 20px; }
+
+h1{ padding-bottom: 20px; 
+text-align: center;}
+
+.interview-padding{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.insta{
+	margin-top: 50px;
+}
+
+@media(max-width:768px){
+	.left{padding-left:0;}
+	.right{padding-right:0;}
+}
+
